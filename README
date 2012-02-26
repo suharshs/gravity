@@ -1,0 +1,11 @@
+Author : Suharsh Sivakumar
+
+This is a gravity game. The player is the orange ball in the center.
+The player can only eat balls that are smaller than it (blue). If the player runs into a red ball he loses.
+
+Goals:
+- practice OOP. Mainly creating classes for reuse.
+- more practice with opengl.
+- general programming practice.
+
+
